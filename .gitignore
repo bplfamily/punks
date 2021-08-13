@@ -1,0 +1,8 @@
+###
+#  don't check in punks.png for testing
+punks.png
+
+###
+#  skip temporary files for testing only
+/tmp/
+
